@@ -28,7 +28,7 @@ export function LandingScene() {
                 <div className="flex-1 p-8 relative flex flex-col justify-center items-center md:items-start pl-8 md:pl-20 pointer-events-auto">
                     {/* Updated text color to white/neutral-50 via utility class or updated component props if needed */}
                     <div className="text-zinc-100 mb-8">
-                        <AnimatedLetterText text="Synoid" letterToReplace="o" className="text-4xl md:text-5xl font-bold tracking-tight text-white mb-2" />
+                        <AnimatedLetterText text="Synoid" letterToReplace="o" className="text-6xl md:text-8xl font-bold tracking-tight text-white mb-2" />
                     </div>
 
                     <h1 className="text-4xl md:text-6xl font-bold text-white tracking-tight mb-4 max-w-2xl text-center md:text-left">
